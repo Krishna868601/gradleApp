@@ -5,7 +5,7 @@ package gradleApp;
 
 public class App {
     public String getGreeting() {
-        return "Hello Jenkins from github!";
+        return "Hello Jenkins from krishna Sai!";
     }
 
     public static void main(String[] args) {
